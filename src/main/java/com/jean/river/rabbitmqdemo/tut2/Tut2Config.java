@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Profile;
 
 /**
  * @Author: JeanRiver
- * @Description:
+ * @Description: MQ将任务分发给复数消费者
  * @Date Created at 11:07 2021/5/10
  * @Modified By:
  */
