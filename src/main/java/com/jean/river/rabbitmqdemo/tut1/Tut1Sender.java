@@ -16,6 +16,7 @@ public class Tut1Sender {
     @Autowired
     private RabbitTemplate template;
 
+    //注入Queue
     @Autowired
     private Queue queue;
 

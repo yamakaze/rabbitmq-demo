@@ -5,7 +5,7 @@ import org.springframework.amqp.rabbit.annotation.RabbitListener;
 
 /**
  * @Author: JeanRiver
- * @Description:
+ * @Description: 指定一个名为hello的队列，从中获取信息
  * @Date Created at 10:20 2021/5/10
  * @Modified By:
  */

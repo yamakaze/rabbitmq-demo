@@ -15,6 +15,7 @@ import org.springframework.context.annotation.Profile;
 @Configuration
 public class Tut1Config {
 
+    //定义一个bean返回一个name为hello的Queue对象
     @Bean
     public Queue hello(){
         return new Queue("hello");
